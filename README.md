@@ -1,2 +1,2 @@
 # OpenClassrooms-API
-Nouveau repo !
+Test authentication to an API rest 
